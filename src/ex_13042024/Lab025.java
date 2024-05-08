@@ -12,8 +12,8 @@ public class Lab025 {
         System.out.println(firstname + lastname);
 
         //unary operator
-        int a1 = +10;
-        int a2 = -10;
+        int a1 = +10;  // Plus Unary
+        int a2 = -10;  // negative Unary
         System.out.println(a1);
         System.out.println(a2);
     }
