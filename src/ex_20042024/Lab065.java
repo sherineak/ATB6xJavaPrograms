@@ -12,6 +12,10 @@ public class Lab065 {
 //        So, result is assigned the value true.
 //                The println statement prints the value of result, which is true
 
+
+
+
+
         int a = true? 10: 20;
         System.out.println(a);
 //        If the condition true is true, then i will be assigned the value 10.
