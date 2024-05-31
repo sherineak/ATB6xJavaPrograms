@@ -1,8 +1,8 @@
-package Lab25042024;
+package ex_25042024;
 
 import java.util.Scanner;
 
-public class Task_Switch {
+public class Task_Switch_Arithametic_OP {
     public static void main(String[] args) {
         //Program to perform Arithmetic operations
 
@@ -35,5 +35,6 @@ public class Task_Switch {
                 System.out.println("None");
 
         }
+        sc.close();
     }
 }

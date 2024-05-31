@@ -2,7 +2,7 @@ package ex_23042024;
 
 import java.util.Scanner;
 
-public class Task3_If_else {
+public class Task3_If_else_Vowels {
     public static void main(String[] args) {
         //Check char is vowel, consonant.
         Scanner sc = new Scanner(System.in);

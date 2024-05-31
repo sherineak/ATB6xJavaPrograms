@@ -1,12 +1,10 @@
-package Lab25042024;
-
-import java.util.Scanner;
+package ex_25042024;
 
 public class Lab093 {
     public static void main(String[] args) {
         int a = 11;
 
-        switch (a){
+        switch (3+4+3){
             default:
                 System.out.println("Default");   // we can default any place but if not used at last pls use break statement
                 break;
