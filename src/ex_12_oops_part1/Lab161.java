@@ -1,4 +1,4 @@
-package ex_oops_part1;
+package ex_12_oops_part1;
 
 public class Lab161 extends Object {
     public static void main(String[] args) {

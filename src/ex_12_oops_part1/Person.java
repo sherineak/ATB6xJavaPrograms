@@ -1,4 +1,4 @@
-package ex_oops_part1;
+package ex_12_oops_part1;
 
 public class Person {   // class person and its public, so any one can access
 
@@ -12,7 +12,7 @@ public class Person {   // class person and its public, so any one can access
         boolean isMale;
         float salary;
 
-        // Behaviours / functionality
+        // Behaviours / functionality / methods
 
         void walk(){                // Non-Return with no Parameter
        System.out.println("I can walk");
